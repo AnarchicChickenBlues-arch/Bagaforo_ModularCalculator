@@ -3,6 +3,7 @@ Modulate Calculator by Jeff Bagaforo
 
 
 Reflection
+
 What functions did you create in your calculator program?
   In my program, I created 4 functions to assist my calculator. Those functions being add, subtract, multiply, and divide.
   
